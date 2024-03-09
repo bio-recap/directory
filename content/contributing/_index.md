@@ -1,6 +1,7 @@
 +++
 archetype = "chapter"
 title = "Contributing"
-weight = 3
+weight = 2
 +++
-lorem ipsum
+
+###### Learn how to maximize your learning potential by creating your own Bio-Recap for a project of interest

@@ -1,6 +1,7 @@
----
-title: "Features"
----
++++
+title = "Features for Each Project"
+weight = 3
++++
 
 Organized Catalogue: Projects are organized by the type of research experiment, making it easy to navigate through different areas of interest.
 
