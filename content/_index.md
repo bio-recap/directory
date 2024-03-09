@@ -3,7 +3,7 @@ archetype = "home"
 title = ""
 +++
 
-![Bio-Recap_logo](/images/bio-recap_logo.jpg?width=30vw&classes=shadow)
+![Bio-Recap_logo](/directory/images/bio-recap_logo.jpg?width=30vw&classes=shadow)
 
 &nbsp;
 
