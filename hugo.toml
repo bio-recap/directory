@@ -42,7 +42,7 @@ theme = "hugo-theme-relearn"
 ###############################################################################
 # Hugo
 # These options usually apply to other themes aswell.
-
+andingPageName = "<i class='fas fa-home'></i> Bio-Recap"
 # The author of your site.
 # Default: not set
 # This will be used in HTML meta tags, the opengraph protocol and twitter
