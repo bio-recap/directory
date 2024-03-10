@@ -6,7 +6,7 @@ theme = 'hugo-theme-relearn'
 [menu]
 [[menu.shortcuts]]
     identifier = 'ds'
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+    name = "<i class='fab fa-fw fa-github'></i> GitHub"
     url = 'https://github.com/bio-recap/'
     weight = 10
 
@@ -15,21 +15,11 @@ theme = 'hugo-theme-relearn'
     url = '/categories'
     weight = 13
 
-[[menu.shortcuts]]
-    identifier = 'hugodoc'
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-    url = 'https://gohugo.io/'
-    weight = 20
 
 [[menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-    url = 'more/credits/'
+    name = "<i class='fas fa-fw fa-bookmark'></i> Acknowledgements"
+    url = '/acknowledgements/'
     weight = 30
-
-[[menu.shortcuts]]
-    name = "<i class='fas fa-tags'></i> Tags"
-    url = '/tags'
-    weight = 15
 
 [[menu.shortcuts]]
     name = "<i class='fas fa-layer-group'></i> Categories"
