@@ -1,6 +1,7 @@
 +++
 archetype = "home"
 title = ""
+weight = 3
 +++
 
 ![Bio-Recap_logo](/directory/images/bio-recap_logo.jpg?width=30vw&classes=shadow)

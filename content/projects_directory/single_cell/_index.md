@@ -1,7 +1,8 @@
 +++
-title = 'Single_cell'
+title = 'Single Cell'
 date = 2024-03-10T11:08:43-07:00
 draft = false
+weight = 7
 +++
 
 Single-cell RNA sequencing (scRNA-seq) is a revolutionary technology that allows the expression levels of genes to be profiled across individual cells, rather than in bulk samples of many cells. This approach provides a high-resolution view of cellular differences and a detailed map of cell types and states within a population. Here's a summary of the workflow and applications of scRNA-seq:

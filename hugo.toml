@@ -56,7 +56,7 @@ theme = 'hugo-theme-relearn'
   disableTagHiddenPages = false
   disableTermBreadcrumbs = false
   disableToc = false
-  editURL = 'https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/${FilePath}'
+  editURL = ''
   externalLinkTarget = '_blank'
   highlightWrap = true
   images = ['images/hero.png']
@@ -77,7 +77,7 @@ theme = 'hugo-theme-relearn'
   [params.imageEffects]
     border = true
     lightbox = true
-    shadow = false
+    shadow = true
 
   [params.link]
     errorlevel = 'warning'

@@ -2,6 +2,7 @@
 title = 'All Categories'
 date = 2024-03-10T11:19:25-07:00
 draft = false
+weight = 4
 +++
 
 ## ChIP-seq

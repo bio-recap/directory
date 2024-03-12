@@ -2,6 +2,7 @@
 title = 'Chromatin Immunoprecipitation'
 date = 2024-03-10T11:05:00-07:00
 draft = false
+weight = 5
 +++
 
 ChIP-Seq, short for Chromatin Immunoprecipitation Sequencing, is a powerful technique used in molecular biology to investigate the interactions between proteins and DNA within the cell. This method provides insights into the regulatory roles of specific proteins in gene expression, aiding in the understanding of cellular processes and disease mechanisms. Here's a brief summary of its workflow and applications:
